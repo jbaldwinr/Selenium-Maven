@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.preview.incaseofcrisis.ssoLoginTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.364 sec
