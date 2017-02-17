@@ -27,7 +27,7 @@ public class ssoLogin {
 	
 	@Before
 	public void setup(){
-		System.setProperty("webdriver.chrome.driver", "/Users/John/Documents/workspace/drivers/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "./Resource/drivers/chromedriver");
 		driver = new ChromeDriver();
 		String baseUrl = "https://preview.incaseofcrisis.com/MyPlans/login_icoc.aspx";
 		driver.get(baseUrl);
